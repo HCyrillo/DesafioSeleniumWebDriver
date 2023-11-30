@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bea18bf7-9201-4de6-8db5-103342851cb1" name="Default Changelist" comment="" />
+    <list default="true" id="bea18bf7-9201-4de6-8db5-103342851cb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafioSeleniumWebDriver/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafioSeleniumWebDriver/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafioSeleniumWebDriver/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafioSeleniumWebDriver/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafioSeleniumWebDriver/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioSeleniumWebDriver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/PesquisaBlogTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/desafioSeleniumWebDriver" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,5 +43,15 @@
       <updated>1701303826845</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1701304250792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1701304250792" />
+    <state x="747" y="285" key="FileChooserDialogImpl" timestamp="1701304385263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="285" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1701304385263" />
   </component>
 </project>
